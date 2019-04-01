@@ -43,7 +43,7 @@ The associated client also includes an End-to-End test.
         └── server.ts // Pony Language Server entry point
 ```
 
-## Running the Sample
+## Development & Testing
 
 * Run `npm install` in this folder. This installs all necessary npm modules in both the client and server folder
 * Open VS Code on this folder.
