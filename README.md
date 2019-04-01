@@ -1,5 +1,21 @@
 # Pony Language Server - Work in Progress
 
+**Tooltips**
+
+![tooltips](https://raw.githubusercontent.com/brakmic/pony-language-server/master/img/docinfo.png)
+
+**Hover**
+
+![hover](https://raw.githubusercontent.com/brakmic/pony-language-server/master/img/hover.png)
+
+**Intellisense**
+
+![intellisense](https://raw.githubusercontent.com/brakmic/pony-language-server/master/img/intellisense.png)
+
+**Function Signatures**
+
+![signatures](https://raw.githubusercontent.com/brakmic/pony-language-server/master/img/signature_completion.png)
+
 Based on Article & Code from https://code.visualstudio.com/api/language-extensions/language-server-extension-guide
 
 ## Functionality
