@@ -331,7 +331,7 @@ connection.onHover((params: TextDocumentPositionParams): Hover => {
 	
 
 	return {
-		contents: ["If I only knew how to code generate Hover results :("]
+		contents: ["If I only knew how to generate proper Hover results :("]
 	};
 });
 
