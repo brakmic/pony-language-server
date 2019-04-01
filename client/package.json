@@ -1,0 +1,25 @@
+{
+	"name": "pony-langserver-client",
+	"description": "VSCode part of pony language server",
+	"author": "Harris Brakmic",
+	"license": "MIT",
+	"version": "0.0.1",
+	"publisher": "brakmic",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/brakmic/vscode-pony-lsp"
+	},
+	"engines": {
+		"vscode": "^1.26"
+	},
+	"scripts": {
+		"update-vscode": "vscode-install",
+		"postinstall": "vscode-install"
+	},
+	"dependencies": {
+		"vscode-languageclient": "^4.1.4"
+	},
+	"devDependencies": {
+		"vscode": "^1.1.30"
+	}
+}

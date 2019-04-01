@@ -1,0 +1,20 @@
+{
+	"name": "pony-language-server",
+	"description": "Pony language server written in TypeScript.",
+	"version": "0.0.1",
+	"author": "Harris Brakmic",
+	"private": true,
+	"license": "MIT",
+	"engines": {
+		"node": "*"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/brakmic/pony-language-server"
+	},
+	"dependencies": {
+		"url": "^0.11.0",
+		"vscode-languageserver": "^4.1.3"
+	},
+	"scripts": {}
+}
