@@ -6,7 +6,7 @@
 
 **Hover**
 
-![hover](https://raw.githubusercontent.com/brakmic/pony-language-server/master/img/hover.png)
+![hover](https://raw.githubusercontent.com/brakmic/pony-language-server/master/img/hover2.png)
 
 **Intellisense**
 
